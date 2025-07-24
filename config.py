@@ -35,7 +35,7 @@ API_KEY = getenv("API_KEY", 'NxGBNexGenBotsb4f439') # youtube song api ke
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/IstkharXrobot/IstkharMusic",
+    "https://github.com/AVENGERSOWNER1/Shiri-music-",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -84,10 +84,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/4z5x9b.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/o2mqtp.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/fa1xas.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/o2mqtp.jpg"
 )
 PLAYLIST_IMG_URL = "https://files.catbox.moe/pfjgmf.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/st6utj.jpg"
